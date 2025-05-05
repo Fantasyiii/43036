@@ -1,0 +1,3042 @@
+
+
+=========================================
+=           Latency Test                =
+=========================================
+
+
+=== Latency Test: broadcast on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 8.723 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 8.723 ms
+Standard deviation: 0.000 ms
+Minimum: 8.723 ms
+Maximum: 8.723 ms
+
+
+=== Latency Test: broadcast on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 7.259 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 7.259 ms
+Standard deviation: 0.000 ms
+Minimum: 7.259 ms
+Maximum: 7.259 ms
+
+
+=== Latency Test: broadcast on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.381 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.381 ms
+Standard deviation: 0.000 ms
+Minimum: 4.381 ms
+Maximum: 4.381 ms
+
+
+=== Latency Test: broadcast on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 0: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.582 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.582 ms
+Standard deviation: 0.000 ms
+Minimum: 6.582 ms
+Maximum: 6.582 ms
+
+
+=== Latency Test: broadcast on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 5.463 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 5.463 ms
+Standard deviation: 0.000 ms
+Minimum: 5.463 ms
+Maximum: 5.463 ms
+
+
+=== Latency Test: broadcast on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 16.690 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 16.690 ms
+Standard deviation: 0.000 ms
+Minimum: 16.690 ms
+Maximum: 16.690 ms
+
+
+=== Latency Test: broadcast on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 17.478 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 17.478 ms
+Standard deviation: 0.000 ms
+Minimum: 17.478 ms
+Maximum: 17.478 ms
+
+
+=== Latency Test: broadcast on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 11.300 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.300 ms
+Standard deviation: 0.000 ms
+Minimum: 11.300 ms
+Maximum: 11.300 ms
+
+
+=== Latency Test: broadcast on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.085 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.085 ms
+Standard deviation: 0.000 ms
+Minimum: 10.085 ms
+Maximum: 10.085 ms
+
+
+=== Latency Test: broadcast on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.864 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.864 ms
+Standard deviation: 0.000 ms
+Minimum: 4.864 ms
+Maximum: 4.864 ms
+
+
+=== Latency Test: broadcast on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.291 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.291 ms
+Standard deviation: 0.000 ms
+Minimum: 3.291 ms
+Maximum: 3.291 ms
+
+
+=== Latency Test: broadcast on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.917 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.917 ms
+Standard deviation: 0.000 ms
+Minimum: 3.917 ms
+Maximum: 3.917 ms
+
+
+=== Latency Test: broadcast on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 4.017 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 4.017 ms
+Standard deviation: 0.000 ms
+Minimum: 4.017 ms
+Maximum: 4.017 ms
+
+
+=== Latency Test: broadcast on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Iteration 1 latency: 6.907 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.907 ms
+Standard deviation: 0.000 ms
+Minimum: 6.907 ms
+Maximum: 6.907 ms
+
+
+=== Latency Test: broadcast on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 11.554 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 11.554 ms
+Standard deviation: 0.000 ms
+Minimum: 11.554 ms
+Maximum: 11.554 ms
+
+
+=== Latency Test: broadcast on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.764 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.764 ms
+Standard deviation: 0.000 ms
+Minimum: 10.764 ms
+Maximum: 10.764 ms
+
+
+=== Latency Test: broadcast on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 21.778 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 21.778 ms
+Standard deviation: 0.000 ms
+Minimum: 21.778 ms
+Maximum: 21.778 ms
+
+
+=== Latency Test: broadcast on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 17.359 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 17.359 ms
+Standard deviation: 0.000 ms
+Minimum: 17.359 ms
+Maximum: 17.359 ms
+
+
+=== Latency Test: gather on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.252 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.252 ms
+Standard deviation: 0.000 ms
+Minimum: 4.252 ms
+Maximum: 4.252 ms
+
+
+=== Latency Test: gather on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 7.330 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 7.330 ms
+Standard deviation: 0.000 ms
+Minimum: 7.330 ms
+Maximum: 7.330 ms
+
+
+=== Latency Test: gather on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.465 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.465 ms
+Standard deviation: 0.000 ms
+Minimum: 3.465 ms
+Maximum: 3.465 ms
+
+
+=== Latency Test: gather on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 16.237 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 16.237 ms
+Standard deviation: 0.000 ms
+Minimum: 16.237 ms
+Maximum: 16.237 ms
+
+
+=== Latency Test: gather on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 19.756 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 19.756 ms
+Standard deviation: 0.000 ms
+Minimum: 19.756 ms
+Maximum: 19.756 ms
+
+
+=== Latency Test: gather on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 13.875 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 13.875 ms
+Standard deviation: 0.000 ms
+Minimum: 13.875 ms
+Maximum: 13.875 ms
+
+
+=== Latency Test: gather on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 18.907 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 18.907 ms
+Standard deviation: 0.000 ms
+Minimum: 18.907 ms
+Maximum: 18.907 ms
+
+
+=== Latency Test: gather on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 20.262 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 20.262 ms
+Standard deviation: 0.000 ms
+Minimum: 20.262 ms
+Maximum: 20.262 ms
+
+
+=== Latency Test: gather on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 19.556 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 19.556 ms
+Standard deviation: 0.000 ms
+Minimum: 19.556 ms
+Maximum: 19.556 ms
+
+
+=== Latency Test: gather on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.902 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.902 ms
+Standard deviation: 0.000 ms
+Minimum: 5.902 ms
+Maximum: 5.902 ms
+
+
+=== Latency Test: gather on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Iteration 1 latency: 4.269 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.269 ms
+Standard deviation: 0.000 ms
+Minimum: 4.269 ms
+Maximum: 4.269 ms
+
+
+=== Latency Test: gather on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Iteration 1 latency: 7.940 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 7.940 ms
+Standard deviation: 0.000 ms
+Minimum: 7.940 ms
+Maximum: 7.940 ms
+
+
+=== Latency Test: gather on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Iteration 1 latency: 12.208 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 12.208 ms
+Standard deviation: 0.000 ms
+Minimum: 12.208 ms
+Maximum: 12.208 ms
+
+
+=== Latency Test: gather on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.769 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.769 ms
+Standard deviation: 0.000 ms
+Minimum: 9.769 ms
+Maximum: 9.769 ms
+
+
+=== Latency Test: gather on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.237 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.237 ms
+Standard deviation: 0.000 ms
+Minimum: 6.237 ms
+Maximum: 6.237 ms
+
+
+=== Latency Test: gather on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 12.218 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 12.218 ms
+Standard deviation: 0.000 ms
+Minimum: 12.218 ms
+Maximum: 12.218 ms
+
+
+=== Latency Test: gather on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.406 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.406 ms
+Standard deviation: 0.000 ms
+Minimum: 10.406 ms
+Maximum: 10.406 ms
+
+
+=== Latency Test: gather on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 11.245 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.245 ms
+Standard deviation: 0.000 ms
+Minimum: 11.245 ms
+Maximum: 11.245 ms
+
+
+=== Latency Test: scatter on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.917 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.917 ms
+Standard deviation: 0.000 ms
+Minimum: 3.917 ms
+Maximum: 3.917 ms
+
+
+=== Latency Test: scatter on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.259 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.259 ms
+Standard deviation: 0.000 ms
+Minimum: 4.259 ms
+Maximum: 4.259 ms
+
+
+=== Latency Test: scatter on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.525 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.525 ms
+Standard deviation: 0.000 ms
+Minimum: 4.525 ms
+Maximum: 4.525 ms
+
+
+=== Latency Test: scatter on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Iteration 1 latency: 6.733 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.733 ms
+Standard deviation: 0.000 ms
+Minimum: 6.733 ms
+Maximum: 6.733 ms
+
+
+=== Latency Test: scatter on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.274 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.274 ms
+Standard deviation: 0.000 ms
+Minimum: 6.274 ms
+Maximum: 6.274 ms
+
+
+=== Latency Test: scatter on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Iteration 1 latency: 5.387 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 5.387 ms
+Standard deviation: 0.000 ms
+Minimum: 5.387 ms
+Maximum: 5.387 ms
+
+
+=== Latency Test: scatter on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.413 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 7.413 ms
+Standard deviation: 0.000 ms
+Minimum: 7.413 ms
+Maximum: 7.413 ms
+
+
+=== Latency Test: scatter on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 13.219 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 13.219 ms
+Standard deviation: 0.000 ms
+Minimum: 13.219 ms
+Maximum: 13.219 ms
+
+
+=== Latency Test: scatter on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 11.415 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.415 ms
+Standard deviation: 0.000 ms
+Minimum: 11.415 ms
+Maximum: 11.415 ms
+
+
+=== Latency Test: scatter on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 11.071 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 11.071 ms
+Standard deviation: 0.000 ms
+Minimum: 11.071 ms
+Maximum: 11.071 ms
+
+
+=== Latency Test: scatter on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.728 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.728 ms
+Standard deviation: 0.000 ms
+Minimum: 5.728 ms
+Maximum: 5.728 ms
+
+
+=== Latency Test: scatter on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.521 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.521 ms
+Standard deviation: 0.000 ms
+Minimum: 3.521 ms
+Maximum: 3.521 ms
+
+
+=== Latency Test: scatter on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.709 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.709 ms
+Standard deviation: 0.000 ms
+Minimum: 9.709 ms
+Maximum: 9.709 ms
+
+
+=== Latency Test: scatter on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 5.498 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 5.498 ms
+Standard deviation: 0.000 ms
+Minimum: 5.498 ms
+Maximum: 5.498 ms
+
+
+=== Latency Test: scatter on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 4.975 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 4.975 ms
+Standard deviation: 0.000 ms
+Minimum: 4.975 ms
+Maximum: 4.975 ms
+
+
+=== Latency Test: scatter on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 8.919 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.919 ms
+Standard deviation: 0.000 ms
+Minimum: 8.919 ms
+Maximum: 8.919 ms
+
+
+=== Latency Test: scatter on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 9.386 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 9.386 ms
+Standard deviation: 0.000 ms
+Minimum: 9.386 ms
+Maximum: 9.386 ms
+
+
+=== Latency Test: scatter on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.052 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.052 ms
+Standard deviation: 0.000 ms
+Minimum: 10.052 ms
+Maximum: 10.052 ms
+
+
+=== Latency Test: reduce on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.654 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.654 ms
+Standard deviation: 0.000 ms
+Minimum: 5.654 ms
+Maximum: 5.654 ms
+
+
+=== Latency Test: reduce on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Iteration 1 latency: 5.020 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.020 ms
+Standard deviation: 0.000 ms
+Minimum: 5.020 ms
+Maximum: 5.020 ms
+
+
+=== Latency Test: reduce on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.151 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.151 ms
+Standard deviation: 0.000 ms
+Minimum: 3.151 ms
+Maximum: 3.151 ms
+
+
+=== Latency Test: reduce on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 14.172 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 14.172 ms
+Standard deviation: 0.000 ms
+Minimum: 14.172 ms
+Maximum: 14.172 ms
+
+
+=== Latency Test: reduce on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.870 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.870 ms
+Standard deviation: 0.000 ms
+Minimum: 8.870 ms
+Maximum: 8.870 ms
+
+
+=== Latency Test: reduce on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.473 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.473 ms
+Standard deviation: 0.000 ms
+Minimum: 8.473 ms
+Maximum: 8.473 ms
+
+
+=== Latency Test: reduce on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Iteration 1 latency: 15.870 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 15.870 ms
+Standard deviation: 0.000 ms
+Minimum: 15.870 ms
+Maximum: 15.870 ms
+
+
+=== Latency Test: reduce on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 12.144 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 12.144 ms
+Standard deviation: 0.000 ms
+Minimum: 12.144 ms
+Maximum: 12.144 ms
+
+
+=== Latency Test: reduce on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 15.652 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 15.652 ms
+Standard deviation: 0.000 ms
+Minimum: 15.652 ms
+Maximum: 15.652 ms
+
+
+=== Latency Test: reduce on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.023 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.023 ms
+Standard deviation: 0.000 ms
+Minimum: 4.023 ms
+Maximum: 4.023 ms
+
+
+=== Latency Test: reduce on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.085 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.085 ms
+Standard deviation: 0.000 ms
+Minimum: 4.085 ms
+Maximum: 4.085 ms
+
+
+=== Latency Test: reduce on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.080 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.080 ms
+Standard deviation: 0.000 ms
+Minimum: 4.080 ms
+Maximum: 4.080 ms
+
+
+=== Latency Test: reduce on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.646 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.646 ms
+Standard deviation: 0.000 ms
+Minimum: 8.646 ms
+Maximum: 8.646 ms
+
+
+=== Latency Test: reduce on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 7.756 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.756 ms
+Standard deviation: 0.000 ms
+Minimum: 7.756 ms
+Maximum: 7.756 ms
+
+
+=== Latency Test: reduce on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 11.794 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 11.794 ms
+Standard deviation: 0.000 ms
+Minimum: 11.794 ms
+Maximum: 11.794 ms
+
+
+=== Latency Test: reduce on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.031 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.031 ms
+Standard deviation: 0.000 ms
+Minimum: 10.031 ms
+Maximum: 10.031 ms
+
+
+=== Latency Test: reduce on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 8.779 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.779 ms
+Standard deviation: 0.000 ms
+Minimum: 8.779 ms
+Maximum: 8.779 ms
+
+
+=== Latency Test: reduce on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 13.119 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 13.119 ms
+Standard deviation: 0.000 ms
+Minimum: 13.119 ms
+Maximum: 13.119 ms
+
+
+=== Latency Test: allreduce on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.661 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.661 ms
+Standard deviation: 0.000 ms
+Minimum: 5.661 ms
+Maximum: 5.661 ms
+
+
+=== Latency Test: allreduce on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.106 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.106 ms
+Standard deviation: 0.000 ms
+Minimum: 6.106 ms
+Maximum: 6.106 ms
+
+
+=== Latency Test: allreduce on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.092 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.092 ms
+Standard deviation: 0.000 ms
+Minimum: 6.092 ms
+Maximum: 6.092 ms
+
+
+=== Latency Test: allreduce on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 11.155 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 11.155 ms
+Standard deviation: 0.000 ms
+Minimum: 11.155 ms
+Maximum: 11.155 ms
+
+
+=== Latency Test: allreduce on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.310 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.310 ms
+Standard deviation: 0.000 ms
+Minimum: 9.310 ms
+Maximum: 9.310 ms
+
+
+=== Latency Test: allreduce on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.956 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.956 ms
+Standard deviation: 0.000 ms
+Minimum: 9.956 ms
+Maximum: 9.956 ms
+
+
+=== Latency Test: allreduce on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 19.578 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 19.578 ms
+Standard deviation: 0.000 ms
+Minimum: 19.578 ms
+Maximum: 19.578 ms
+
+
+=== Latency Test: allreduce on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 17.263 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 17.263 ms
+Standard deviation: 0.000 ms
+Minimum: 17.263 ms
+Maximum: 17.263 ms
+
+
+=== Latency Test: allreduce on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 15.275 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 15.275 ms
+Standard deviation: 0.000 ms
+Minimum: 15.275 ms
+Maximum: 15.275 ms
+
+
+=== Latency Test: allreduce on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.980 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.980 ms
+Standard deviation: 0.000 ms
+Minimum: 4.980 ms
+Maximum: 4.980 ms
+
+
+=== Latency Test: allreduce on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.112 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.112 ms
+Standard deviation: 0.000 ms
+Minimum: 5.112 ms
+Maximum: 5.112 ms
+
+
+=== Latency Test: allreduce on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.000 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.000 ms
+Standard deviation: 0.000 ms
+Minimum: 6.000 ms
+Maximum: 6.000 ms
+
+
+=== Latency Test: allreduce on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.430 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.430 ms
+Standard deviation: 0.000 ms
+Minimum: 8.430 ms
+Maximum: 8.430 ms
+
+
+=== Latency Test: allreduce on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 10.191 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 10.191 ms
+Standard deviation: 0.000 ms
+Minimum: 10.191 ms
+Maximum: 10.191 ms
+
+
+=== Latency Test: allreduce on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 1: Communicator initialized successfully
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 13.742 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 13.742 ms
+Standard deviation: 0.000 ms
+Minimum: 13.742 ms
+Maximum: 13.742 ms
+
+
+=== Latency Test: allreduce on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 14.154 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 14.154 ms
+Standard deviation: 0.000 ms
+Minimum: 14.154 ms
+Maximum: 14.154 ms
+
+
+=== Latency Test: allreduce on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 12.416 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 12.416 ms
+Standard deviation: 0.000 ms
+Minimum: 12.416 ms
+Maximum: 12.416 ms
+
+
+=== Latency Test: allreduce on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 13.369 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 13.369 ms
+Standard deviation: 0.000 ms
+Minimum: 13.369 ms
+Maximum: 13.369 ms
+
+
+=== Latency Test: allgather on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.694 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.694 ms
+Standard deviation: 0.000 ms
+Minimum: 5.694 ms
+Maximum: 5.694 ms
+
+
+=== Latency Test: allgather on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.780 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.780 ms
+Standard deviation: 0.000 ms
+Minimum: 6.780 ms
+Maximum: 6.780 ms
+
+
+=== Latency Test: allgather on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.586 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.586 ms
+Standard deviation: 0.000 ms
+Minimum: 6.586 ms
+Maximum: 6.586 ms
+
+
+=== Latency Test: allgather on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 14.830 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 14.830 ms
+Standard deviation: 0.000 ms
+Minimum: 14.830 ms
+Maximum: 14.830 ms
+
+
+=== Latency Test: allgather on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 13.223 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 13.223 ms
+Standard deviation: 0.000 ms
+Minimum: 13.223 ms
+Maximum: 13.223 ms
+
+
+=== Latency Test: allgather on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 11.291 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 11.291 ms
+Standard deviation: 0.000 ms
+Minimum: 11.291 ms
+Maximum: 11.291 ms
+
+
+=== Latency Test: allgather on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 18.181 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 18.181 ms
+Standard deviation: 0.000 ms
+Minimum: 18.181 ms
+Maximum: 18.181 ms
+
+
+=== Latency Test: allgather on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 18.030 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 18.030 ms
+Standard deviation: 0.000 ms
+Minimum: 18.030 ms
+Maximum: 18.030 ms
+
+
+=== Latency Test: allgather on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 19.720 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 19.720 ms
+Standard deviation: 0.000 ms
+Minimum: 19.720 ms
+Maximum: 19.720 ms
+
+
+=== Latency Test: allgather on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.466 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.466 ms
+Standard deviation: 0.000 ms
+Minimum: 5.466 ms
+Maximum: 5.466 ms
+
+
+=== Latency Test: allgather on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.019 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.019 ms
+Standard deviation: 0.000 ms
+Minimum: 5.019 ms
+Maximum: 5.019 ms
+
+
+=== Latency Test: allgather on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.432 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.432 ms
+Standard deviation: 0.000 ms
+Minimum: 4.432 ms
+Maximum: 4.432 ms
+
+
+=== Latency Test: allgather on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Iteration 1 latency: 8.958 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.958 ms
+Standard deviation: 0.000 ms
+Minimum: 8.958 ms
+Maximum: 8.958 ms
+
+
+=== Latency Test: allgather on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 11.115 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 11.115 ms
+Standard deviation: 0.000 ms
+Minimum: 11.115 ms
+Maximum: 11.115 ms
+
+
+=== Latency Test: allgather on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.116 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.116 ms
+Standard deviation: 0.000 ms
+Minimum: 9.116 ms
+Maximum: 9.116 ms
+
+
+=== Latency Test: allgather on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 11.817 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.817 ms
+Standard deviation: 0.000 ms
+Minimum: 11.817 ms
+Maximum: 11.817 ms
+
+
+=== Latency Test: allgather on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 13.066 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 13.066 ms
+Standard deviation: 0.000 ms
+Minimum: 13.066 ms
+Maximum: 13.066 ms
+
+
+=== Latency Test: allgather on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 18.806 ms
+
+=== Latency Statistics ===
+Operation: allgather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 18.806 ms
+Standard deviation: 0.000 ms
+Minimum: 18.806 ms
+Maximum: 18.806 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.997 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.997 ms
+Standard deviation: 0.000 ms
+Minimum: 5.997 ms
+Maximum: 5.997 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.108 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.108 ms
+Standard deviation: 0.000 ms
+Minimum: 4.108 ms
+Maximum: 4.108 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.545 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.545 ms
+Standard deviation: 0.000 ms
+Minimum: 5.545 ms
+Maximum: 5.545 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.096 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.096 ms
+Standard deviation: 0.000 ms
+Minimum: 7.096 ms
+Maximum: 7.096 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.545 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.545 ms
+Standard deviation: 0.000 ms
+Minimum: 8.545 ms
+Maximum: 8.545 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.064 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.064 ms
+Standard deviation: 0.000 ms
+Minimum: 8.064 ms
+Maximum: 8.064 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 11.987 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.987 ms
+Standard deviation: 0.000 ms
+Minimum: 11.987 ms
+Maximum: 11.987 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 16.229 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 16.229 ms
+Standard deviation: 0.000 ms
+Minimum: 16.229 ms
+Maximum: 16.229 ms
+
+
+=== Latency Test: reduce_scatter on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 11.616 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.616 ms
+Standard deviation: 0.000 ms
+Minimum: 11.616 ms
+Maximum: 11.616 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.055 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.055 ms
+Standard deviation: 0.000 ms
+Minimum: 4.055 ms
+Maximum: 4.055 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.507 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.507 ms
+Standard deviation: 0.000 ms
+Minimum: 5.507 ms
+Maximum: 5.507 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.234 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.234 ms
+Standard deviation: 0.000 ms
+Minimum: 5.234 ms
+Maximum: 5.234 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 1043.828 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 1043.828 ms
+Standard deviation: 0.000 ms
+Minimum: 1043.828 ms
+Maximum: 1043.828 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 18.404 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 18.404 ms
+Standard deviation: 0.000 ms
+Minimum: 18.404 ms
+Maximum: 18.404 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 10.143 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 10.143 ms
+Standard deviation: 0.000 ms
+Minimum: 10.143 ms
+Maximum: 10.143 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 12.700 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 12.700 ms
+Standard deviation: 0.000 ms
+Minimum: 12.700 ms
+Maximum: 12.700 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 1043.470 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 1043.470 ms
+Standard deviation: 0.000 ms
+Minimum: 1043.470 ms
+Maximum: 1043.470 ms
+
+
+=== Latency Test: reduce_scatter on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 1026.714 ms
+
+=== Latency Statistics ===
+Operation: reduce_scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 1026.714 ms
+Standard deviation: 0.000 ms
+Minimum: 1026.714 ms
+Maximum: 1026.714 ms
+
+
+=========================================
+=     Latency Test Results     =
+=========================================
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| Operation      | Topology   |   Node Count |   Data Size(KB) |   Avg Latency(ms) |   Std Dev |      Min |      Max |
++================+============+==============+=================+===================+===========+==========+==========+
+| allgather      | ring       |            4 |             0.5 |             5.694 |         0 |    5.694 |    5.694 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            4 |             1   |             6.78  |         0 |    6.78  |    6.78  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            4 |             2   |             6.586 |         0 |    6.586 |    6.586 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            6 |             0.5 |            14.83  |         0 |   14.83  |   14.83  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            6 |             1   |            13.223 |         0 |   13.223 |   13.223 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            6 |             2   |            11.291 |         0 |   11.291 |   11.291 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            8 |             0.5 |            18.181 |         0 |   18.181 |   18.181 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            8 |             1   |            18.03  |         0 |   18.03  |   18.03  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | ring       |            8 |             2   |            19.72  |         0 |   19.72  |   19.72  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            4 |             0.5 |             5.466 |         0 |    5.466 |    5.466 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            4 |             1   |             5.019 |         0 |    5.019 |    5.019 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            4 |             2   |             4.432 |         0 |    4.432 |    4.432 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            6 |             0.5 |             8.958 |         0 |    8.958 |    8.958 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            6 |             1   |            11.115 |         0 |   11.115 |   11.115 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            6 |             2   |             9.116 |         0 |    9.116 |    9.116 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            8 |             0.5 |            11.817 |         0 |   11.817 |   11.817 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            8 |             1   |            13.066 |         0 |   13.066 |   13.066 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allgather      | tree       |            8 |             2   |            18.806 |         0 |   18.806 |   18.806 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            4 |             0.5 |             5.661 |         0 |    5.661 |    5.661 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            4 |             1   |             6.106 |         0 |    6.106 |    6.106 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            4 |             2   |             6.092 |         0 |    6.092 |    6.092 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            6 |             0.5 |            11.155 |         0 |   11.155 |   11.155 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            6 |             1   |             9.31  |         0 |    9.31  |    9.31  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            6 |             2   |             9.956 |         0 |    9.956 |    9.956 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            8 |             0.5 |            19.578 |         0 |   19.578 |   19.578 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            8 |             1   |            17.263 |         0 |   17.263 |   17.263 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | ring       |            8 |             2   |            15.275 |         0 |   15.275 |   15.275 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            4 |             0.5 |             4.98  |         0 |    4.98  |    4.98  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            4 |             1   |             5.112 |         0 |    5.112 |    5.112 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            4 |             2   |             6     |         0 |    6     |    6     |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            6 |             0.5 |             8.43  |         0 |    8.43  |    8.43  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            6 |             1   |            10.191 |         0 |   10.191 |   10.191 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            6 |             2   |            13.742 |         0 |   13.742 |   13.742 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            8 |             0.5 |            14.154 |         0 |   14.154 |   14.154 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            8 |             1   |            12.416 |         0 |   12.416 |   12.416 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| allreduce      | tree       |            8 |             2   |            13.369 |         0 |   13.369 |   13.369 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            4 |             0.5 |             8.723 |         0 |    8.723 |    8.723 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            4 |             1   |             7.259 |         0 |    7.259 |    7.259 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            4 |             2   |             4.381 |         0 |    4.381 |    4.381 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            6 |             0.5 |             6.582 |         0 |    6.582 |    6.582 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            6 |             1   |             5.463 |         0 |    5.463 |    5.463 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            6 |             2   |            16.69  |         0 |   16.69  |   16.69  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            8 |             0.5 |            17.478 |         0 |   17.478 |   17.478 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            8 |             1   |            11.3   |         0 |   11.3   |   11.3   |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | ring       |            8 |             2   |            10.085 |         0 |   10.085 |   10.085 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            4 |             0.5 |             4.864 |         0 |    4.864 |    4.864 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            4 |             1   |             3.291 |         0 |    3.291 |    3.291 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            4 |             2   |             3.917 |         0 |    3.917 |    3.917 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            6 |             0.5 |             4.017 |         0 |    4.017 |    4.017 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            6 |             1   |             6.907 |         0 |    6.907 |    6.907 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            6 |             2   |            11.554 |         0 |   11.554 |   11.554 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            8 |             0.5 |            10.764 |         0 |   10.764 |   10.764 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            8 |             1   |            21.778 |         0 |   21.778 |   21.778 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| broadcast      | tree       |            8 |             2   |            17.359 |         0 |   17.359 |   17.359 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            4 |             0.5 |             4.252 |         0 |    4.252 |    4.252 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            4 |             1   |             7.33  |         0 |    7.33  |    7.33  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            4 |             2   |             3.465 |         0 |    3.465 |    3.465 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            6 |             0.5 |            16.237 |         0 |   16.237 |   16.237 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            6 |             1   |            19.756 |         0 |   19.756 |   19.756 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            6 |             2   |            13.875 |         0 |   13.875 |   13.875 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            8 |             0.5 |            18.907 |         0 |   18.907 |   18.907 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            8 |             1   |            20.262 |         0 |   20.262 |   20.262 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | ring       |            8 |             2   |            19.556 |         0 |   19.556 |   19.556 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            4 |             0.5 |             5.902 |         0 |    5.902 |    5.902 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            4 |             1   |             4.269 |         0 |    4.269 |    4.269 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            4 |             2   |             7.94  |         0 |    7.94  |    7.94  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            6 |             0.5 |            12.208 |         0 |   12.208 |   12.208 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            6 |             1   |             9.769 |         0 |    9.769 |    9.769 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            6 |             2   |             6.237 |         0 |    6.237 |    6.237 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            8 |             0.5 |            12.218 |         0 |   12.218 |   12.218 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            8 |             1   |            10.406 |         0 |   10.406 |   10.406 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| gather         | tree       |            8 |             2   |            11.245 |         0 |   11.245 |   11.245 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            4 |             0.5 |             5.654 |         0 |    5.654 |    5.654 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            4 |             1   |             5.02  |         0 |    5.02  |    5.02  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            4 |             2   |             3.151 |         0 |    3.151 |    3.151 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            6 |             0.5 |            14.172 |         0 |   14.172 |   14.172 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            6 |             1   |             8.87  |         0 |    8.87  |    8.87  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            6 |             2   |             8.473 |         0 |    8.473 |    8.473 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            8 |             0.5 |            15.87  |         0 |   15.87  |   15.87  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            8 |             1   |            12.144 |         0 |   12.144 |   12.144 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | ring       |            8 |             2   |            15.652 |         0 |   15.652 |   15.652 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            4 |             0.5 |             4.023 |         0 |    4.023 |    4.023 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            4 |             1   |             4.085 |         0 |    4.085 |    4.085 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            4 |             2   |             4.08  |         0 |    4.08  |    4.08  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            6 |             0.5 |             8.646 |         0 |    8.646 |    8.646 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            6 |             1   |             7.756 |         0 |    7.756 |    7.756 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            6 |             2   |            11.794 |         0 |   11.794 |   11.794 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            8 |             0.5 |            10.031 |         0 |   10.031 |   10.031 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            8 |             1   |             8.779 |         0 |    8.779 |    8.779 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce         | tree       |            8 |             2   |            13.119 |         0 |   13.119 |   13.119 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            4 |             0.5 |             5.997 |         0 |    5.997 |    5.997 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            4 |             1   |             4.108 |         0 |    4.108 |    4.108 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            4 |             2   |             5.545 |         0 |    5.545 |    5.545 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            6 |             0.5 |             7.096 |         0 |    7.096 |    7.096 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            6 |             1   |             8.545 |         0 |    8.545 |    8.545 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            6 |             2   |             8.064 |         0 |    8.064 |    8.064 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            8 |             0.5 |            11.987 |         0 |   11.987 |   11.987 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            8 |             1   |            16.229 |         0 |   16.229 |   16.229 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | ring       |            8 |             2   |            11.616 |         0 |   11.616 |   11.616 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            4 |             0.5 |             4.055 |         0 |    4.055 |    4.055 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            4 |             1   |             5.507 |         0 |    5.507 |    5.507 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            4 |             2   |             5.234 |         0 |    5.234 |    5.234 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            6 |             0.5 |          1043.83  |         0 | 1043.83  | 1043.83  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            6 |             1   |            18.404 |         0 |   18.404 |   18.404 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            6 |             2   |            10.143 |         0 |   10.143 |   10.143 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            8 |             0.5 |            12.7   |         0 |   12.7   |   12.7   |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            8 |             1   |          1043.47  |         0 | 1043.47  | 1043.47  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| reduce_scatter | tree       |            8 |             2   |          1026.71  |         0 | 1026.71  | 1026.71  |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            4 |             0.5 |             3.917 |         0 |    3.917 |    3.917 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            4 |             1   |             4.259 |         0 |    4.259 |    4.259 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            4 |             2   |             4.525 |         0 |    4.525 |    4.525 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            6 |             0.5 |             6.733 |         0 |    6.733 |    6.733 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            6 |             1   |             6.274 |         0 |    6.274 |    6.274 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            6 |             2   |             5.387 |         0 |    5.387 |    5.387 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            8 |             0.5 |             7.413 |         0 |    7.413 |    7.413 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            8 |             1   |            13.219 |         0 |   13.219 |   13.219 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | ring       |            8 |             2   |            11.415 |         0 |   11.415 |   11.415 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            4 |             0.5 |            11.071 |         0 |   11.071 |   11.071 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            4 |             1   |             5.728 |         0 |    5.728 |    5.728 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            4 |             2   |             3.521 |         0 |    3.521 |    3.521 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            6 |             0.5 |             9.709 |         0 |    9.709 |    9.709 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            6 |             1   |             5.498 |         0 |    5.498 |    5.498 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            6 |             2   |             4.975 |         0 |    4.975 |    4.975 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            8 |             0.5 |             8.919 |         0 |    8.919 |    8.919 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            8 |             1   |             9.386 |         0 |    9.386 |    9.386 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+| scatter        | tree       |            8 |             2   |            10.052 |         0 |   10.052 |   10.052 |
++----------------+------------+--------------+-----------------+-------------------+-----------+----------+----------+
+
+Plots saved to: logs/plots_20250504_204720
+
+Test end time: 2025-05-04 20:48:43
+Total duration: 83.78 seconds

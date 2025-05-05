@@ -1,0 +1,1776 @@
+
+
+=========================================
+=           Latency Test                =
+=========================================
+
+
+=== Latency Test: broadcast on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.119 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.119 ms
+Standard deviation: 0.000 ms
+Minimum: 6.119 ms
+Maximum: 6.119 ms
+
+
+=== Latency Test: broadcast on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.283 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.283 ms
+Standard deviation: 0.000 ms
+Minimum: 5.283 ms
+Maximum: 5.283 ms
+
+
+=== Latency Test: broadcast on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.502 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.502 ms
+Standard deviation: 0.000 ms
+Minimum: 3.502 ms
+Maximum: 3.502 ms
+
+
+=== Latency Test: broadcast on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 5.318 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 5.318 ms
+Standard deviation: 0.000 ms
+Minimum: 5.318 ms
+Maximum: 5.318 ms
+
+
+=== Latency Test: broadcast on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.952 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.952 ms
+Standard deviation: 0.000 ms
+Minimum: 6.952 ms
+Maximum: 6.952 ms
+
+
+=== Latency Test: broadcast on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 11.173 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 11.173 ms
+Standard deviation: 0.000 ms
+Minimum: 11.173 ms
+Maximum: 11.173 ms
+
+
+=== Latency Test: broadcast on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.436 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.436 ms
+Standard deviation: 0.000 ms
+Minimum: 10.436 ms
+Maximum: 10.436 ms
+
+
+=== Latency Test: broadcast on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 9.409 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 9.409 ms
+Standard deviation: 0.000 ms
+Minimum: 9.409 ms
+Maximum: 9.409 ms
+
+
+=== Latency Test: broadcast on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 7.933 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 7.933 ms
+Standard deviation: 0.000 ms
+Minimum: 7.933 ms
+Maximum: 7.933 ms
+
+
+=== Latency Test: broadcast on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.176 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.176 ms
+Standard deviation: 0.000 ms
+Minimum: 3.176 ms
+Maximum: 3.176 ms
+
+
+=== Latency Test: broadcast on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 1.978 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 1.978 ms
+Standard deviation: 0.000 ms
+Minimum: 1.978 ms
+Maximum: 1.978 ms
+
+
+=== Latency Test: broadcast on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Iteration 1 latency: 6.281 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.281 ms
+Standard deviation: 0.000 ms
+Minimum: 6.281 ms
+Maximum: 6.281 ms
+
+
+=== Latency Test: broadcast on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.775 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.775 ms
+Standard deviation: 0.000 ms
+Minimum: 7.775 ms
+Maximum: 7.775 ms
+
+
+=== Latency Test: broadcast on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.328 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.328 ms
+Standard deviation: 0.000 ms
+Minimum: 8.328 ms
+Maximum: 8.328 ms
+
+
+=== Latency Test: broadcast on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.237 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.237 ms
+Standard deviation: 0.000 ms
+Minimum: 9.237 ms
+Maximum: 9.237 ms
+
+
+=== Latency Test: broadcast on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.526 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.526 ms
+Standard deviation: 0.000 ms
+Minimum: 8.526 ms
+Maximum: 8.526 ms
+
+
+=== Latency Test: broadcast on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 8.555 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.555 ms
+Standard deviation: 0.000 ms
+Minimum: 8.555 ms
+Maximum: 8.555 ms
+
+
+=== Latency Test: broadcast on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.700 ms
+
+=== Latency Statistics ===
+Operation: broadcast
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.700 ms
+Standard deviation: 0.000 ms
+Minimum: 10.700 ms
+Maximum: 10.700 ms
+
+
+=== Latency Test: gather on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.224 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.224 ms
+Standard deviation: 0.000 ms
+Minimum: 5.224 ms
+Maximum: 5.224 ms
+
+
+=== Latency Test: gather on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.026 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.026 ms
+Standard deviation: 0.000 ms
+Minimum: 6.026 ms
+Maximum: 6.026 ms
+
+
+=== Latency Test: gather on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.144 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.144 ms
+Standard deviation: 0.000 ms
+Minimum: 5.144 ms
+Maximum: 5.144 ms
+
+
+=== Latency Test: gather on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 16.421 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 16.421 ms
+Standard deviation: 0.000 ms
+Minimum: 16.421 ms
+Maximum: 16.421 ms
+
+
+=== Latency Test: gather on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.677 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.677 ms
+Standard deviation: 0.000 ms
+Minimum: 9.677 ms
+Maximum: 9.677 ms
+
+
+=== Latency Test: gather on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.464 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.464 ms
+Standard deviation: 0.000 ms
+Minimum: 8.464 ms
+Maximum: 8.464 ms
+
+
+=== Latency Test: gather on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 12.055 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 12.055 ms
+Standard deviation: 0.000 ms
+Minimum: 12.055 ms
+Maximum: 12.055 ms
+
+
+=== Latency Test: gather on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 10.874 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.874 ms
+Standard deviation: 0.000 ms
+Minimum: 10.874 ms
+Maximum: 10.874 ms
+
+
+=== Latency Test: gather on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.927 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.927 ms
+Standard deviation: 0.000 ms
+Minimum: 10.927 ms
+Maximum: 10.927 ms
+
+
+=== Latency Test: gather on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Iteration 1 latency: 3.666 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.666 ms
+Standard deviation: 0.000 ms
+Minimum: 3.666 ms
+Maximum: 3.666 ms
+
+
+=== Latency Test: gather on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.103 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.103 ms
+Standard deviation: 0.000 ms
+Minimum: 3.103 ms
+Maximum: 3.103 ms
+
+
+=== Latency Test: gather on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.013 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.013 ms
+Standard deviation: 0.000 ms
+Minimum: 4.013 ms
+Maximum: 4.013 ms
+
+
+=== Latency Test: gather on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.617 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.617 ms
+Standard deviation: 0.000 ms
+Minimum: 6.617 ms
+Maximum: 6.617 ms
+
+
+=== Latency Test: gather on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.004 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.004 ms
+Standard deviation: 0.000 ms
+Minimum: 8.004 ms
+Maximum: 8.004 ms
+
+
+=== Latency Test: gather on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.324 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.324 ms
+Standard deviation: 0.000 ms
+Minimum: 7.324 ms
+Maximum: 7.324 ms
+
+
+=== Latency Test: gather on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 9.423 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 9.423 ms
+Standard deviation: 0.000 ms
+Minimum: 9.423 ms
+Maximum: 9.423 ms
+
+
+=== Latency Test: gather on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 8.558 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.558 ms
+Standard deviation: 0.000 ms
+Minimum: 8.558 ms
+Maximum: 8.558 ms
+
+
+=== Latency Test: gather on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.156 ms
+
+=== Latency Statistics ===
+Operation: gather
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.156 ms
+Standard deviation: 0.000 ms
+Minimum: 10.156 ms
+Maximum: 10.156 ms
+
+
+=== Latency Test: scatter on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.201 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.201 ms
+Standard deviation: 0.000 ms
+Minimum: 4.201 ms
+Maximum: 4.201 ms
+
+
+=== Latency Test: scatter on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.848 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.848 ms
+Standard deviation: 0.000 ms
+Minimum: 6.848 ms
+Maximum: 6.848 ms
+
+
+=== Latency Test: scatter on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.769 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.769 ms
+Standard deviation: 0.000 ms
+Minimum: 4.769 ms
+Maximum: 4.769 ms
+
+
+=== Latency Test: scatter on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.898 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.898 ms
+Standard deviation: 0.000 ms
+Minimum: 6.898 ms
+Maximum: 6.898 ms
+
+
+=== Latency Test: scatter on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 5.138 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 5.138 ms
+Standard deviation: 0.000 ms
+Minimum: 5.138 ms
+Maximum: 5.138 ms
+
+
+=== Latency Test: scatter on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Iteration 1 latency: 7.965 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.965 ms
+Standard deviation: 0.000 ms
+Minimum: 7.965 ms
+Maximum: 7.965 ms
+
+
+=== Latency Test: scatter on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 8.207 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.207 ms
+Standard deviation: 0.000 ms
+Minimum: 8.207 ms
+Maximum: 8.207 ms
+
+
+=== Latency Test: scatter on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.098 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.098 ms
+Standard deviation: 0.000 ms
+Minimum: 10.098 ms
+Maximum: 10.098 ms
+
+
+=== Latency Test: scatter on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 7.974 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 7.974 ms
+Standard deviation: 0.000 ms
+Minimum: 7.974 ms
+Maximum: 7.974 ms
+
+
+=== Latency Test: scatter on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.523 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.523 ms
+Standard deviation: 0.000 ms
+Minimum: 4.523 ms
+Maximum: 4.523 ms
+
+
+=== Latency Test: scatter on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.041 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.041 ms
+Standard deviation: 0.000 ms
+Minimum: 3.041 ms
+Maximum: 3.041 ms
+
+
+=== Latency Test: scatter on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.319 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.319 ms
+Standard deviation: 0.000 ms
+Minimum: 3.319 ms
+Maximum: 3.319 ms
+
+
+=== Latency Test: scatter on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 4.889 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 4.889 ms
+Standard deviation: 0.000 ms
+Minimum: 4.889 ms
+Maximum: 4.889 ms
+
+
+=== Latency Test: scatter on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.342 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.342 ms
+Standard deviation: 0.000 ms
+Minimum: 7.342 ms
+Maximum: 7.342 ms
+
+
+=== Latency Test: scatter on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.170 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.170 ms
+Standard deviation: 0.000 ms
+Minimum: 6.170 ms
+Maximum: 6.170 ms
+
+
+=== Latency Test: scatter on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.158 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.158 ms
+Standard deviation: 0.000 ms
+Minimum: 10.158 ms
+Maximum: 10.158 ms
+
+
+=== Latency Test: scatter on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 8.335 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.335 ms
+Standard deviation: 0.000 ms
+Minimum: 8.335 ms
+Maximum: 8.335 ms
+
+
+=== Latency Test: scatter on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 9.361 ms
+
+=== Latency Statistics ===
+Operation: scatter
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 9.361 ms
+Standard deviation: 0.000 ms
+Minimum: 9.361 ms
+Maximum: 9.361 ms
+
+
+=== Latency Test: reduce on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.021 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.021 ms
+Standard deviation: 0.000 ms
+Minimum: 5.021 ms
+Maximum: 5.021 ms
+
+
+=== Latency Test: reduce on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.640 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.640 ms
+Standard deviation: 0.000 ms
+Minimum: 4.640 ms
+Maximum: 4.640 ms
+
+
+=== Latency Test: reduce on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.531 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.531 ms
+Standard deviation: 0.000 ms
+Minimum: 4.531 ms
+Maximum: 4.531 ms
+
+
+=== Latency Test: reduce on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.361 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.361 ms
+Standard deviation: 0.000 ms
+Minimum: 7.361 ms
+Maximum: 7.361 ms
+
+
+=== Latency Test: reduce on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.666 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.666 ms
+Standard deviation: 0.000 ms
+Minimum: 7.666 ms
+Maximum: 7.666 ms
+
+
+=== Latency Test: reduce on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.238 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.238 ms
+Standard deviation: 0.000 ms
+Minimum: 9.238 ms
+Maximum: 9.238 ms
+
+
+=== Latency Test: reduce on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 8.659 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 8.659 ms
+Standard deviation: 0.000 ms
+Minimum: 8.659 ms
+Maximum: 8.659 ms
+
+
+=== Latency Test: reduce on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Iteration 1 latency: 10.796 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.796 ms
+Standard deviation: 0.000 ms
+Minimum: 10.796 ms
+Maximum: 10.796 ms
+
+
+=== Latency Test: reduce on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 12.077 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 12.077 ms
+Standard deviation: 0.000 ms
+Minimum: 12.077 ms
+Maximum: 12.077 ms
+
+
+=== Latency Test: reduce on tree topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.239 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.239 ms
+Standard deviation: 0.000 ms
+Minimum: 4.239 ms
+Maximum: 4.239 ms
+
+
+=== Latency Test: reduce on tree topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.052 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.052 ms
+Standard deviation: 0.000 ms
+Minimum: 3.052 ms
+Maximum: 3.052 ms
+
+
+=== Latency Test: reduce on tree topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 3.390 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 3.390 ms
+Standard deviation: 0.000 ms
+Minimum: 3.390 ms
+Maximum: 3.390 ms
+
+
+=== Latency Test: reduce on tree topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 5.699 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 5.699 ms
+Standard deviation: 0.000 ms
+Minimum: 5.699 ms
+Maximum: 5.699 ms
+
+
+=== Latency Test: reduce on tree topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 6.667 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 6.667 ms
+Standard deviation: 0.000 ms
+Minimum: 6.667 ms
+Maximum: 6.667 ms
+
+
+=== Latency Test: reduce on tree topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 7.075 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 7.075 ms
+Standard deviation: 0.000 ms
+Minimum: 7.075 ms
+Maximum: 7.075 ms
+
+
+=== Latency Test: reduce on tree topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 12.425 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 12.425 ms
+Standard deviation: 0.000 ms
+Minimum: 12.425 ms
+Maximum: 12.425 ms
+
+
+=== Latency Test: reduce on tree topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 11.010 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.010 ms
+Standard deviation: 0.000 ms
+Minimum: 11.010 ms
+Maximum: 11.010 ms
+
+
+=== Latency Test: reduce on tree topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 10.616 ms
+
+=== Latency Statistics ===
+Operation: reduce
+Topology: tree
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 10.616 ms
+Standard deviation: 0.000 ms
+Minimum: 10.616 ms
+Maximum: 10.616 ms
+
+
+=== Latency Test: allreduce on ring topology, 4 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 6.021 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 6.021 ms
+Standard deviation: 0.000 ms
+Minimum: 6.021 ms
+Maximum: 6.021 ms
+
+
+=== Latency Test: allreduce on ring topology, 4 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 5.450 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 5.450 ms
+Standard deviation: 0.000 ms
+Minimum: 5.450 ms
+Maximum: 5.450 ms
+
+
+=== Latency Test: allreduce on ring topology, 4 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Iteration 1 latency: 4.843 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 4
+Number of iterations: 1
+Average latency: 4.843 ms
+Standard deviation: 0.000 ms
+Minimum: 4.843 ms
+Maximum: 4.843 ms
+
+
+=== Latency Test: allreduce on ring topology, 6 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 8.349 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 8.349 ms
+Standard deviation: 0.000 ms
+Minimum: 8.349 ms
+Maximum: 8.349 ms
+
+
+=== Latency Test: allreduce on ring topology, 6 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 9.100 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 9.100 ms
+Standard deviation: 0.000 ms
+Minimum: 9.100 ms
+Maximum: 9.100 ms
+
+
+=== Latency Test: allreduce on ring topology, 6 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Iteration 1 latency: 11.869 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 6
+Number of iterations: 1
+Average latency: 11.869 ms
+Standard deviation: 0.000 ms
+Minimum: 11.869 ms
+Maximum: 11.869 ms
+
+
+=== Latency Test: allreduce on ring topology, 8 nodes, 1 iterations, Data volume: 0.5KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 15.334 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 15.334 ms
+Standard deviation: 0.000 ms
+Minimum: 15.334 ms
+Maximum: 15.334 ms
+
+
+=== Latency Test: allreduce on ring topology, 8 nodes, 1 iterations, Data volume: 1KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 7: Communicator initialized successfully
+Iteration 1 latency: 11.530 ms
+
+=== Latency Statistics ===
+Operation: allreduce
+Topology: ring
+Number of nodes: 8
+Number of iterations: 1
+Average latency: 11.530 ms
+Standard deviation: 0.000 ms
+Minimum: 11.530 ms
+Maximum: 11.530 ms
+
+
+=== Latency Test: allreduce on ring topology, 8 nodes, 1 iterations, Data volume: 2KB ===
+
+Iteration 1/1
+Node 0: Communicator initialized successfully
+Node 1: Communicator initialized successfully
+Node 2: Communicator initialized successfully
+Node 3: Communicator initialized successfully
+Node 5: Communicator initialized successfully
+Node 4: Communicator initialized successfully
+Node 6: Communicator initialized successfully
+Node 7: Communicator initialized successfully
